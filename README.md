@@ -1,12 +1,22 @@
-# React + Vite
+# Flynet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Flynet is an online platform dedicated to providing job opportunities in various sectors, including **Security Guard**, **Nursing**, **Aviation**, and **Data Entry**. We aim to connect job seekers with employers looking for skilled professionals.
 
-Currently, two official plugins are available:
+### Live Website: [Flynet - Job Opportunities](https://flynetaviation.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Job Listings**: Browse and apply for jobs in the fields of Security Guard, Nursing, Aviation, and Data Entry.
+- **User-Friendly Interface**: Simple navigation for job seekers to easily find and apply for jobs.
+- **Job Search**: Filter job listings by category (Security, Nursing, Aviation, Data Entry) to find suitable positions.
+- **Application Form**: Easy-to-use form to apply for jobs directly through the website.
+- **Employer Dashboard**: Employers can post job openings and manage their listings.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+To get started with the Flynet platform, follow the steps below:
+
+1. Clone this repository or copy the code.
+2. Install the necessary dependencies:
+   ```bash
+   npm install
