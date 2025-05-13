@@ -44,11 +44,7 @@ const Circulers = () => {
                             key={item._id}
                             className="bg-white rounded-2xl shadow-lg overflow-hidden transition-transform hover:scale-[1.02] duration-300 border border-gray-200"
                         >
-                            <img
-                                src={item.image}
-                                alt={item.name}
-                                className="w-full h-52 object-cover"
-                            />
+                            
                             <div className="p-6 flex flex-col gap-3">
                                 <div className="text-sm text-gray-500 italic">{getTimeAgo(item.postTime)}</div>
                                 <h2 className="text-2xl font-semibold text-gray-800">{item.name}</h2>

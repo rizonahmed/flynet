@@ -11,7 +11,7 @@ const Admin = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (password === "flynetadmin") {
+    if (password === "skycareeradmin") {
       setIsAuthenticated(true);
       localStorage.setItem("isAuthenticated", "true");
       setError("");

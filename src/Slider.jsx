@@ -45,7 +45,7 @@ const Slider = () => {
           <div className='w-10/12 mx-auto '> 
         <h1 className='text-2xl lg:text-4xl mb-2'>AVIATION, DATA ENTRY</h1>
         <h2 className="text-2xl lg:text-4xl mb-2">WORDBOY, NURSING AND <br /> SECURITY JOB WITH</h2>
-        <h2 className='text-2xl lg:text-5xl text-[#E2C072] mb-2'>FLYNET AVIATION</h2>
+        <h2 className='text-2xl lg:text-5xl text-[#E2C072] mb-2'>SKY CAREER AVIATION</h2>
         <p className='pb-6 text-xl'>Safe, reliable, and comfortable Job solutions</p>
         <button className="bg-[#E2C072] text-black px-6 py-2 hover:bg-black hover:text-white transition">
           <a href="#book">GET A Job</a>

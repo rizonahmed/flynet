@@ -15,7 +15,7 @@ const Career = () => {
     <div className="bg-white text-black">
       {/* Header Section */}
       <section className="bg-[#d3b13f] text-white py-7 text-center">
-        <h1 className="text-3xl md:text-4xl font-bold">Career Opportunities at Flynet Aviation</h1>
+        <h1 className="text-3xl md:text-4xl font-bold">Career Opportunities at Sky Career Aviation</h1>
         <p className="mt-4 max-w-2xl mx-auto text-lg">
           Explore promising careers in security, nursing, aviation, data entry, and more.
         </p>
@@ -57,7 +57,7 @@ const Career = () => {
       <section className="bg-gray-100 py-12 px-4">
         <div className="max-w-5xl mx-auto text-center">
           <h2 className="text-2xl font-semibold text-[#d3b13f] mb-6">How We Work</h2>
-          <p className="mb-6">At Flynet Aviation, we ensure a simple and transparent recruitment process:</p>
+          <p className="mb-6">At Sky Career Aviation, we ensure a simple and transparent recruitment process:</p>
           <ul className="space-y-3 text-left max-w-2xl mx-auto">
             <li><FaCheckCircle className="inline mr-2 text-[#d3b13f]" /> Step 1: Apply online via our portal</li>
             <li><FaCheckCircle className="inline mr-2 text-[#d3b13f]" /> Step 2: Resume screening and shortlisting</li>

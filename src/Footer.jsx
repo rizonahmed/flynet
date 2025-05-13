@@ -18,7 +18,7 @@ const Footer = () => {
           <img
             src={logo}
             alt="Flynet Logo"
-            className="-ml-7 h-44 w-44"
+            className="-ml-7 h-44 w-44 pb-4"
           />
           <p className='-mt-7'>
             <span className="font-semibold ">Address:</span> B-6/2 Ghansoli THANE WEST, MUMBAI, MAHARASHTRA 400701
@@ -71,7 +71,7 @@ const Footer = () => {
 
       {/* Bottom Bar */}
       <div className="bg-[#2F2E2E] text-center text-white text-base py-10">
-        © 2025, All rights reserved with Flynet | Designed & Developed by Contemporary Connect
+        © 2025, All rights reserved with Sky Career Aviation | Designed & Developed by Rizon Ahmed
       </div>
     </footer>
   );
